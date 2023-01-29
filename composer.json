@@ -1,6 +1,6 @@
 {
-    "name": "dcat-admin/form-step",
-    "description": "Dcat Admin 分步表单扩展",
+    "name": "mikha-dev/form-step",
+    "description": "Dcat Admin",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/dcat-admin/form-step",
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
+        "php": ">=7.4",
         "dcat/laravel-admin": "~2.0"
     },
     "autoload": {
