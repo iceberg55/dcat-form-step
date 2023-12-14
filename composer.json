@@ -2,6 +2,7 @@
     "name": "mikha-dev/dcat-form-step",
     "description": "Dcat Admin",
     "type": "library",
+    "alias": "Form Step",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/dcat-admin/form-step",
     "license": "MIT",
